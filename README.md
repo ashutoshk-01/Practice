@@ -1,4 +1,4 @@
 # Practice
 This is my practice repository 
 <br>
-Author: Ashutosh Kirjat
+Author: Ashutosh  Narayan Kirjat
